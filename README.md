@@ -1,19 +1,23 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# Quizzler App
+
+Quiz app is an app that tests your general knowledge.
+This app is basically a set of questions which the user can response by either clicking
+True or False for each question 
+This is one of the most popular types of apps on the app stores. 
+
+# What i learnt from this creating this app 
+
+- Modularising your code into separate classes.
+- Dart classes and objects.
+- Using class constructors.
+- Extracting Widgets to refactor your code.
+- private and public modifiers in Dart.
+- How to use Dart lists.
+- The difference between var, const and final.
 
 
-# Quizzler Challenge - Starting Files
+I will want to thank App Brewery for their amazing course "Introduction To Flutter Development"
+and the entire flutter team for their great resources.
+All these helped me greatly in doing this project
 
-- Clone this repository to your local system.
-
-- Read the docs for the package we're using:
-
-[rFluttter Alert](https://pub.dartlang.org/packages/rflutter_alert)
-
-- Follow the step by step challenges.
-
-
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+>You can check out The App Brewery's Complete Flutter Development Bootcamp at [www.appbrewery.co](https://www.appbrewery.co/)
